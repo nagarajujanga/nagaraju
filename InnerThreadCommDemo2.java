@@ -14,7 +14,7 @@ class AndhraBank
 		{
 			System.out.println("\t \n Your account balance is lessthan the withdrwal amount");
 			System.out.println("\t \n Available balance is:"   +balance + ".Please deposit the money");
-			
+			sytem.out.println("\t  \n ");
 		}
 		try
 		{
